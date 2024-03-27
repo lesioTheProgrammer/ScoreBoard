@@ -1,6 +1,7 @@
 ﻿namespace ScoreBoardTests
 {
-    public class Class1
+    [TestClass]
+    public class MatchTests
     {
 
     }

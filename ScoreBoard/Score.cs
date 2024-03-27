@@ -1,6 +1,6 @@
 ﻿namespace ScoreBoard
 {
-    public class Class1
+    public class Score
     {
 
     }
