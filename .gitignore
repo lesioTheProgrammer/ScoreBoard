@@ -12,3 +12,7 @@
 /ScoreBoardTests/obj/ScoreBoardTests.csproj.nuget.g.targets
 /ScoreBoardTests/obj/Debug/net6.0/ScoreBoardTests.csproj.AssemblyReference.cache
 /ScoreBoard/.vs/ScoreBoard/FileContentIndex/c21dc0a9-79c4-4ef7-a546-d65a45a26a33.vsidx
+*.v2
+*.bin
+/ScoreBoard/.vs/ScoreBoard/v17/.suo
+/ScoreBoard/ScoreBoard.sln
