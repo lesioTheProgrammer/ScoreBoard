@@ -16,3 +16,11 @@
 *.bin
 /ScoreBoard/.vs/ScoreBoard/v17/.suo
 /ScoreBoard/ScoreBoard.sln
+*.BuildWithSkipAnalyzers
+*.manifest
+/ScoreBoard/.vs/ScoreBoard/v17/TestStore/0
+/ScoreBoard/bin/Debug/net6.0
+/ScoreBoard/obj/Debug/net6.0
+/ScoreBoardTests/bin/Debug/net6.0/cs
+/ScoreBoardTests/bin/Debug/net6.0
+/ScoreBoardTests/obj/Debug/net6.0
